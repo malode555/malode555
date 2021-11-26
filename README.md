@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mayur
+- 👀 I’m interested in Data Science and Machine learning
+- 🌱 I’m currently learning computer vision an R
+- 💞️ I’m looking to collaborate on Machine leaning and Deep learning
